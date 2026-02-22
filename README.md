@@ -89,7 +89,7 @@ System responds:
 And display it in README like this:
 
 ```markdown
-![Architecture Diagram](images/STUDY-BUDDY-IMAGE.png)
+![Architecture Diagram](STUDY-BUDDY-IMAGE.png)
 ```
 
 ---

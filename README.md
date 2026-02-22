@@ -85,12 +85,8 @@ System responds:
 ## 📸 Architecture Diagram
 
 
-
-And display it in README like this:
-
-```markdown
 ![Architecture Diagram](STUDY-BUDDY-IMAGE.png)
-```
+
 
 ---
 
@@ -126,13 +122,3 @@ And display it in README like this:
 
 Built as part of my AI/ML interview preparation to better understand practical RAG system implementation.
 
----
-
-If you want, I can now also write:
-
-* ⭐ A short 2-line GitHub description
-* ⭐ Resume-ready project description
-* ⭐ LinkedIn project post
-* ⭐ Interview explanation script (1 minute version)
-
-Just tell me.

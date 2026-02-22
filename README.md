@@ -1,7 +1,3 @@
-Here is a **clean, professional, human-sounding README** you can directly paste into GitHub 👇
-
----
-
 # 📚 Personal Learning Notes Assistant (RAG Project)
 
 A simple Retrieval-Augmented Generation (RAG) system that allows me to upload my study PDFs and ask questions based on my own notes.
@@ -89,14 +85,11 @@ System responds:
 ## 📸 Architecture Diagram
 
 
-```
-images/architecture.png
-```
 
 And display it in README like this:
 
 ```markdown
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/STUDY-BUDDY-IMAGE.png)
 ```
 
 ---
